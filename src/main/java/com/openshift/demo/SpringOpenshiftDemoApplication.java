@@ -17,7 +17,7 @@ public class SpringOpenshiftDemoApplication {
 	
 	@GetMapping("/{input}")
 	public String m2(@PathVariable String input) {
-		return "Hi"+input+"your app deployed in openshift successfully..";
+		return "Hi "+input+" your app deployed in openshift successfully..";
 	}
 
 
