@@ -1,0 +1,2 @@
+# spring-openshiftDemo
+openshift deployment 
